@@ -9,4 +9,4 @@ Learning C++, Data Structures and Algorithms and Web Development.
 Interested in loT, Cybersecurity and Hardware Integration.
 Goal: Build practical projects, participate in hackathons and secure an internship by my 5th semester.
 ## Career Goal
-Secure an internship by the fourth semester.
+Secure an internship by the 5th semester.
