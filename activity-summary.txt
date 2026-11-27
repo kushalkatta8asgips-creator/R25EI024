@@ -1,0 +1,12 @@
+Activity Summary - Git & GitHub Collaboration Lab
+
+Tools Used:
+- Visual Studio Code
+- Git & GitHub
+- C Compiler (GCC)
+
+Tasks Completed:
+- Cloned repository and configured local Git identity
+- Created hello.c with a greeting function and main
+- Updated README.md with technical skills, projects, and collaboration log
+- Created feature branch (add-activity-summary) and opened a Pull Request
